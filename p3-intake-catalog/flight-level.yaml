@@ -4,56 +4,78 @@ plugins:
 
 sources:
   P3-0117:
-    driver: netcdf
+    driver: opendap
     args:
+      auth: null
+      chunks: {}
       urlpath: https://psl.noaa.gov/thredds/dodsC/Datasets/ATOMIC/data/p3/Flight-level/Level_2/EUREC4A_ATOMIC_P3_Flight-level_20200117_v1.0.nc
 
   P3-0119:
-    driver: netcdf
+    driver: opendap
     args:
+      auth: null
+      chunks: {}
       urlpath: https://psl.noaa.gov/thredds/dodsC/Datasets/ATOMIC/data/p3/Flight-level/Level_2/EUREC4A_ATOMIC_P3_Flight-level_20200119_v1.0.nc
 
   P3-0123:
-    driver: netcdf
+    driver: opendap
     args:
+      auth: null
+      chunks: {}
       urlpath: https://psl.noaa.gov/thredds/dodsC/Datasets/ATOMIC/data/p3/Flight-level/Level_2/EUREC4A_ATOMIC_P3_Flight-level_20200123_v1.0.nc
 
   P3-0124:
-    driver: netcdf
+    driver: opendap
     args:
+      auth: null
+      chunks: {}
       urlpath: https://psl.noaa.gov/thredds/dodsC/Datasets/ATOMIC/data/p3/Flight-level/Level_2/EUREC4A_ATOMIC_P3_Flight-level_20200124_v1.0.nc
 
   P3-0131:
-    driver: netcdf
+    driver: opendap
     args:
+      auth: null
+      chunks: {}
       urlpath: https://psl.noaa.gov/thredds/dodsC/Datasets/ATOMIC/data/p3/Flight-level/Level_2/EUREC4A_ATOMIC_P3_Flight-level_20200131_v1.0.nc
 
   P3-0203:
-    driver: netcdf
+    driver: opendap
     args:
+      auth: null
+      chunks: {}
       urlpath: https://psl.noaa.gov/thredds/dodsC/Datasets/ATOMIC/data/p3/Flight-level/Level_2/EUREC4A_ATOMIC_P3_Flight-level_20200203_v1.0.nc
 
   P3-0204:
-    driver: netcdf
+    driver: opendap
     args:
+      auth: null
+      chunks: {}
       urlpath: https://psl.noaa.gov/thredds/dodsC/Datasets/ATOMIC/data/p3/Flight-level/Level_2/EUREC4A_ATOMIC_P3_Flight-level_20200204_v1.0.nc
 
   P3-0205:
-    driver: netcdf
+    driver: opendap
     args:
+      auth: null
+      chunks: {}
       urlpath: https://psl.noaa.gov/thredds/dodsC/Datasets/ATOMIC/data/p3/Flight-level/Level_2/EUREC4A_ATOMIC_P3_Flight-level_20200205_v1.0.nc
 
   P3-0209:
-    driver: netcdf
+    driver: opendap
     args:
+      auth: null
+      chunks: {}
       urlpath: https://psl.noaa.gov/thredds/dodsC/Datasets/ATOMIC/data/p3/Flight-level/Level_2/EUREC4A_ATOMIC_P3_Flight-level_20200209_v1.0.nc
 
   P3-0210:
-    driver: netcdf
+    driver: opendap
     args:
+      auth: null
+      chunks: {}
       urlpath: https://psl.noaa.gov/thredds/dodsC/Datasets/ATOMIC/data/p3/Flight-level/Level_2/EUREC4A_ATOMIC_P3_Flight-level_20200210_v1.0.nc
 
   P3-0211:
-    driver: netcdf
+    driver: opendap
     args:
+      auth: null
+      chunks: {}
       urlpath: https://psl.noaa.gov/thredds/dodsC/Datasets/ATOMIC/data/p3/Flight-level/Level_2/EUREC4A_ATOMIC_P3_Flight-level_20200211_v1.0.nc
